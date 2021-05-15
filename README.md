@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Exercício 2 da disciplina de Arquitetura de Software Front end
